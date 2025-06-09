@@ -1,0 +1,7 @@
+rootUser:
+  user: root
+  password: 4YbkJomsvGg1DhHIpMWO
+db:
+  name: ctfd_db
+  user: ctfd_user
+  password: QZNDmTwMem4X87kl03LQ

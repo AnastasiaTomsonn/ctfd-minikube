@@ -1,0 +1,6 @@
+global:
+  redis:
+    password: nwfZ428mHqT5eBnGl4zA
+
+replica:
+  replicaCount: 1
